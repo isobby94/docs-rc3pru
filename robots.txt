@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-0u38qj.salamcuanwin.xyz/sitemap.xml
